@@ -6,7 +6,7 @@
 
 I am Sharathchandra B r, a passionate and innovative Java Developer with a keen interest in Developing Full Stack Applications. My journey in the world of technology and creativity is reflected in the projects and contributions you'll find here.
 
- **Portfolio(https://arunsak04.github.io/Portfolioz/)** 
+ **Portfolio(https://sharathcbrportfolio.netlify.app/)** 
 
 ## How to Reach Me:
 
