@@ -10,11 +10,11 @@ I am Sharathchandra B r, a passionate and innovative Java Developer with a keen 
 
 ## How to Reach Me:
 
-📧 Email: arunsakka4@gmail.com
+📧 Email: sharathcbr3447@gmail.com
 
-🌐 LinkedIn: https://www.linkedin.com/in/arun-kumar-3b8353192/
+🌐 LinkedIn: https://www.linkedin.com/in/sharathchandra-br-a07259247/
 
-🐦 Twitter: https://twitter.com/ArunSAk90498332?t=JKbGXmeyQgnn6BngsI1I0A&s=09
+
 
 Feel free to explore my projects, and don't hesitate to reach out for collaboration or any inquiries. Let's connect and create something amazing together! 🚀✨
 "# Portfolio" 
